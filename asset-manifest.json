@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.63e5501d.chunk.css",
-    "main.js": "/static/js/main.4061ad4a.chunk.js",
-    "main.js.map": "/static/js/main.4061ad4a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2931374e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2931374e.js.map",
-    "static/js/2.a6c53f4d.chunk.js": "/static/js/2.a6c53f4d.chunk.js",
-    "static/js/2.a6c53f4d.chunk.js.map": "/static/js/2.a6c53f4d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.63e5501d.chunk.css.map": "/static/css/main.63e5501d.chunk.css.map",
-    "static/js/2.a6c53f4d.chunk.js.LICENSE.txt": "/static/js/2.a6c53f4d.chunk.js.LICENSE.txt",
-    "static/media/about.css": "/static/media/bgl.2b84fb1f.jpg",
-    "static/media/herosection.css": "/static/media/hero_1.79058954.jpg",
-    "static/media/image_class_bg.dcbcd656.jpg": "/static/media/image_class_bg.dcbcd656.jpg",
-    "static/media/pathfind_bg.2c8f340e.jpg": "/static/media/pathfind_bg.2c8f340e.jpg",
-    "static/media/sorting_bg.7c41f324.jpg": "/static/media/sorting_bg.7c41f324.jpg",
-    "static/media/stock_bg.c77699bf.jpg": "/static/media/stock_bg.c77699bf.jpg",
-    "static/media/sudoku_bg.b5af134d.jpg": "/static/media/sudoku_bg.b5af134d.jpg"
+    "main.css": "/vishaljha2121.github.io/static/css/main.557a0f56.chunk.css",
+    "main.js": "/vishaljha2121.github.io/static/js/main.4fe873ca.chunk.js",
+    "main.js.map": "/vishaljha2121.github.io/static/js/main.4fe873ca.chunk.js.map",
+    "runtime-main.js": "/vishaljha2121.github.io/static/js/runtime-main.d3e07e76.js",
+    "runtime-main.js.map": "/vishaljha2121.github.io/static/js/runtime-main.d3e07e76.js.map",
+    "static/js/2.a6c53f4d.chunk.js": "/vishaljha2121.github.io/static/js/2.a6c53f4d.chunk.js",
+    "static/js/2.a6c53f4d.chunk.js.map": "/vishaljha2121.github.io/static/js/2.a6c53f4d.chunk.js.map",
+    "index.html": "/vishaljha2121.github.io/index.html",
+    "static/css/main.557a0f56.chunk.css.map": "/vishaljha2121.github.io/static/css/main.557a0f56.chunk.css.map",
+    "static/js/2.a6c53f4d.chunk.js.LICENSE.txt": "/vishaljha2121.github.io/static/js/2.a6c53f4d.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/vishaljha2121.github.io/static/media/bgl.2b84fb1f.jpg",
+    "static/media/herosection.css": "/vishaljha2121.github.io/static/media/hero_1.79058954.jpg",
+    "static/media/image_class_bg.dcbcd656.jpg": "/vishaljha2121.github.io/static/media/image_class_bg.dcbcd656.jpg",
+    "static/media/pathfind_bg.2c8f340e.jpg": "/vishaljha2121.github.io/static/media/pathfind_bg.2c8f340e.jpg",
+    "static/media/sorting_bg.7c41f324.jpg": "/vishaljha2121.github.io/static/media/sorting_bg.7c41f324.jpg",
+    "static/media/stock_bg.c77699bf.jpg": "/vishaljha2121.github.io/static/media/stock_bg.c77699bf.jpg",
+    "static/media/sudoku_bg.b5af134d.jpg": "/vishaljha2121.github.io/static/media/sudoku_bg.b5af134d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2931374e.js",
+    "static/js/runtime-main.d3e07e76.js",
     "static/js/2.a6c53f4d.chunk.js",
-    "static/css/main.63e5501d.chunk.css",
-    "static/js/main.4061ad4a.chunk.js"
+    "static/css/main.557a0f56.chunk.css",
+    "static/js/main.4fe873ca.chunk.js"
   ]
 }
