@@ -4,7 +4,7 @@ import "../App.css";
 export default function Projects() {
   return (
     <>
-      <h1 className="about">PROJECTS</h1>
+      <h1 className="about">My PROJECTS</h1>
     </>
   );
 }
