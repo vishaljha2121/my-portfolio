@@ -13,7 +13,7 @@ function App() {
       <Router>
         <NavBar />
         <Switch>
-          <Route path="/my-portfolio" exact component={Home} />
+          <Route path="/vishaljha2121.github.io" exact component={Home} />
           <Route path="/about" component={About} />
           <Route path="/projects" component={Projects} />
         </Switch>
