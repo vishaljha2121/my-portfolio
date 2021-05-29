@@ -10,7 +10,7 @@ function Herosection() {
       <div className="hero-container">
         {/* <img src={image} alt="" center /> */}
         <h1>VISHAL JHA</h1>
-        <p>Budding developer</p>
+        <p>Student, ML engineer</p>
         <div className="hero-btns">
           <Button
             className="btns"
@@ -24,7 +24,7 @@ function Herosection() {
             buttonStyle="btn--primary"
             buttonSize="btn--large"
           >
-            PROJECT GALLERY
+            ML PLAYGROUND
           </Button>
         </div>
       </div>

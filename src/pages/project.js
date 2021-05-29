@@ -1,10 +1,13 @@
 import React from "react";
 import "../App.css";
+import Footer from "../componets/footer";
+import ProjectBody from "./projectbody";
 
 export default function Projects() {
   return (
     <>
-      <h1 className="about">My PROJECTS</h1>
+      <ProjectBody />
+      <Footer />
     </>
   );
 }

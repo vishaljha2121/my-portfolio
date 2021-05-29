@@ -1,0 +1,13 @@
+.title_work {
+  display: block;
+  text-align: center;
+  color: #14213d;
+  text-decoration: underline;
+  font-size: 5rem;
+  font-weight: 550;
+  word-spacing: 0.1em;
+  letter-spacing: 0.2em;
+  word-break: break-word;
+  font-family: "Montserrat", sans-serif;
+  hyphens: auto;
+}
